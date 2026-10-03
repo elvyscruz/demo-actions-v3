@@ -1,1 +1,1 @@
-console.log("Hola a todos, estoy aprendiendo gh actions!")
+console.llog("Hola a todos, estoy aprendiendo gh actions!")
